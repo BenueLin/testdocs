@@ -14,11 +14,8 @@ how to :ref:`installation` the project.
    This project is under active development.
    项目持续开发中。
 
-Contents
---------
-
 .. toctree::
-
+   :caption: 目录
    usage
    api
    thanks
