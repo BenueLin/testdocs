@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TestDoc'
+copyright = '2023, t35t'
+author = 't35t'
 
-release = '0.1'
-version = '0.1.0'
+release = '10086'
+version = '0.1.x'
 
 # -- General configuration
 
